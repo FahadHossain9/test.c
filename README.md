@@ -1,2 +1,2 @@
 # test.c
-for nothing
+for nothing because our seniors told us to do so////
